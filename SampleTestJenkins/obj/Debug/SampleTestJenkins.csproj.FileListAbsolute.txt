@@ -1,0 +1,7 @@
+D:\Ganesh\SampleTestJenkins\SampleTestJenkins\bin\Debug\SampleTestJenkins.exe.config
+D:\Ganesh\SampleTestJenkins\SampleTestJenkins\bin\Debug\SampleTestJenkins.exe
+D:\Ganesh\SampleTestJenkins\SampleTestJenkins\bin\Debug\SampleTestJenkins.pdb
+D:\Ganesh\SampleTestJenkins\SampleTestJenkins\obj\Debug\SampleTestJenkins.csproj.AssemblyReference.cache
+D:\Ganesh\SampleTestJenkins\SampleTestJenkins\obj\Debug\SampleTestJenkins.csproj.CoreCompileInputs.cache
+D:\Ganesh\SampleTestJenkins\SampleTestJenkins\obj\Debug\SampleTestJenkins.exe
+D:\Ganesh\SampleTestJenkins\SampleTestJenkins\obj\Debug\SampleTestJenkins.pdb
