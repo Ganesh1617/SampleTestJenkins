@@ -9,7 +9,7 @@ namespace SampleTestJenkins
     {
         static void Main(string[] args)
         {
-            int i;
+            int i,j;
             Console.Write("Enter a Number : ");
             i = int.Parse(Console.ReadLine());
             if (i % 2 == 0)
